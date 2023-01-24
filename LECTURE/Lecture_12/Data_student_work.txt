@@ -1,0 +1,2 @@
+hours_homework = [1, 10, 3, 20, 32, 6, 1, 9, 2, 10, 5]
+sucess_exam = ['fail', 'pass','fail','pass','pass','fail','fail','pass','fail', 'fail', 'pass']
